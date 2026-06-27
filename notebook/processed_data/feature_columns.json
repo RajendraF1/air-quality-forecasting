@@ -12,7 +12,6 @@
     "pm25_lag_24h",
     "pm25_lag_48h",
     "pm25_lag_72h",
-    "pm25_lag_124h",
     "pm1_lag_1h",
     "um003_lag_1h",
     "relativehumidity_lag_6h",
