@@ -1,20 +1,20 @@
 {
   "best_params": {
-    "colsample_bytree": 0.7,
+    "colsample_bytree": 1.0,
     "learning_rate": 0.05,
     "max_depth": 4,
     "min_child_weight": 1,
     "n_estimators": 800,
     "subsample": 0.7
   },
-  "cv_best_mae": 0.7229,
+  "cv_best_mae": 0.829,
   "test_metrics": {
-    "mae": 0.5926,
-    "rmse": 0.8668,
-    "mape": 3.7,
-    "r2": 0.9886
+    "mae": 0.5656,
+    "rmse": 0.9875,
+    "mape": 3.54,
+    "r2": 0.9852
   },
-  "n_features": 30,
+  "n_features": 38,
   "n_train": 1030,
   "n_test": 258
 }
